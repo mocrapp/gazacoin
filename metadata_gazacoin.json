@@ -1,7 +1,7 @@
 {
   "name": "GazaCoin",
   "symbol": "GZC",
-  "uri": "https://example.com/metadata.json",
+  "uri": "https://github.com/mocrapp/gazacoin/blob/main/metadata_gazacoin.json",
   "creators": null,
   "collection": null,
   "properties": {

@@ -1,0 +1,17 @@
+{
+  "name": "GazaCoin",
+  "symbol": "GZC",
+  "uri": "https://example.com/metadata.json",
+  "creators": null,
+  "collection": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/mocrapp/gazacoin/blob/main/Ontwerp%20zonder%20titel.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": null
+  }
+}

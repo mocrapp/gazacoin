@@ -1,9 +1,9 @@
 {
   "name": "Gazacoin",
   "symbol": "GZC",
-  "uri": "https://github.com/mocrapp/gazacoin/blob/main/metadata.json",  // Dit is de URL van de metadata
-  "seller_fee_basis_points": 500,
-  "creators": null,
-  "image": "https://github.com/mocrapp/gazacoin/blob/main/logo.png"  // Dit is de URL van je afbeelding
+  "description": "A token representing Gazacoin.",
+  "image": "https://raw.githubusercontent.com/mocrapp/gazacoin/main/logo.png",
+  "attributes": [
+    { "trait_type": "Purpose", "value": "Utility" }
+  ]
 }
-

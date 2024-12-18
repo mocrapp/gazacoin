@@ -1,17 +1,9 @@
 {
-  "name": "GazaCoin",
+  "name": "Gazacoin",
   "symbol": "GZC",
-  "uri": "https://github.com/mocrapp/gazacoin/blob/main/metadata_gazacoin.json",
+  "uri": "https://github.com/mocrapp/gazacoin/edit/main/metadata.json",  // Dit is de URL van de metadata
+  "seller_fee_basis_points": 500,
   "creators": null,
-  "collection": null,
-  "properties": {
-    "files": [
-      {
-        "uri": "https://github.com/mocrapp/gazacoin/blob/main/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": null
-  }
+  "image": "https://github.com/yourusername/yourimage.png"  // Dit is de URL van je afbeelding
 }
+

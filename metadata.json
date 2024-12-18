@@ -4,6 +4,6 @@
   "uri": "https://github.com/mocrapp/gazacoin/edit/main/metadata.json",  // Dit is de URL van de metadata
   "seller_fee_basis_points": 500,
   "creators": null,
-  "image": "https://github.com/yourusername/yourimage.png"  // Dit is de URL van je afbeelding
+  "image": "https://github.com/mocrapp/gazacoin/blob/main/logo.png"  // Dit is de URL van je afbeelding
 }
 

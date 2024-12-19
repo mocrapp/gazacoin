@@ -3,7 +3,5 @@
   "symbol": "GZC",
   "description": "A token representing Gazacoin.",
   "image": "https://raw.githubusercontent.com/mocrapp/gazacoin/main/logo.png",
-  "attributes": [
-    { "trait_type": "Purpose", "value": "Utility" }
-  ]
+ 
 }
